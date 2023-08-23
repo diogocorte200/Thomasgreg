@@ -1,9 +1,11 @@
 ﻿using AutoMapper;
-
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
 using Thomasgreg.Domain.Domain;
 using Thomasgreg.Domain.Service.Generic;
+using Thomasgreg.Infra.Context;
 using Thomasgreg.Infra.Entity;
 using Thomasgreg.Infra.Repositories;
 using Thomasgreg.Infra.Repositories.Interfaces;
@@ -16,9 +18,10 @@ namespace Thomasgreg.Domain.Service
                                                 where Te : Logradouro
     {
         ILogradouroRepository _logradouroRepository;
+        private readonly ClientContext _clientContext;
 
         public LogradouroService(IUnitofWork unitOfWork, IMapper mapper,
-                             ILogradouroRepository logradouroRepository)
+                             ILogradouroRepository logradouroRepository, ClientContext clientContext)
         {
             if (_unitOfWork == null)
                 _unitOfWork = unitOfWork;
@@ -27,6 +30,7 @@ namespace Thomasgreg.Domain.Service
 
             if (_logradouroRepository == null)
                 _logradouroRepository = logradouroRepository;
+            _clientContext = clientContext; ;
         }
 
         public Logradouro ModelarLogradouro(LogradouroCreateModel logradouro)
@@ -47,46 +51,23 @@ namespace Thomasgreg.Domain.Service
             return result;
         }
 
-        //public async Task<RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid>> AdicionarLogradouro(LogradouroCreateModel logradouro)
-        //{
-
-        //    RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid> retornoController = new RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid>();
-        //    try
-        //    {
-        //        var entityLogradouro = await ModelarLogradouro(logradouro);
-
-
-        //        _logradouroRepository.Add(entityLogradouro);
-        //        _logradouroRepository.Save();
-
-
-        //        return retornoController;
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        return null;
-        //    }
-        //}
-
-
-        public async Task<RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid>> AdicionarLogradouro(LogradouroCreateModel logradouro)
+        public async Task<RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid>> AdicionarLogradouro(LogradouroModel logradouro)
         {
-            //var logradouroExistente = await BuscarLogradouroNome(logradouro.NomeLogradouro);
-
-            //if (logradouroExistente != null)
-            //{
-            //    return null;
-            //}
-
             RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid> retornoController = new RetornoControllerViewModel<ExibicaoMensagemViewModel, Guid>();
             try
             {
-                var logradouroInserir = ModelarLogradouro(logradouro);
-                var entityLogradouro = logradouroInserir;
+                var id = new SqlParameter("@ID", Guid.NewGuid());
+                var numero = new SqlParameter("@Numero", logradouro.Numero);
+                var rua = new SqlParameter("@Rua", logradouro.Rua);
+                var bairro = new SqlParameter("@Bairro", logradouro.Bairro);
+                var cidade = new SqlParameter("@Cidade", logradouro.Cidade);
+                var estado = new SqlParameter("@Estado", logradouro.Estado);
+                var cep = new SqlParameter("@CEP", logradouro.CEP);
+                var complemento = new SqlParameter("@Complemento", logradouro.Complemento);
+                var idCliente = new SqlParameter("@IdCliente", logradouro.IdCliente);
 
-                _logradouroRepository.Add(entityLogradouro);
-                _logradouroRepository.Save();
-
+                _clientContext.Database.ExecuteSqlRaw("EXEC InserirLogradouro @ID, @Numero, @Rua, @Bairro, @Cidade, @Estado, @CEP, @Complemento, @IdCliente", id, numero, rua, bairro, cidade, estado, cep, complemento, idCliente);
+                _clientContext.SaveChanges();
 
                 return retornoController;
             }
@@ -134,11 +115,5 @@ namespace Thomasgreg.Domain.Service
             }
             return lougradouros.ToList();
         }
-        //public async Task<Logradouro> BuscarLogradouroNome(string nome)
-        //{
-        //    var lougradouros = _logradouroRepository.Find(c => c.NomeLogradouro == nome).FirstOrDefault();
-
-        //    return lougradouros;
-        //}
     }
 }

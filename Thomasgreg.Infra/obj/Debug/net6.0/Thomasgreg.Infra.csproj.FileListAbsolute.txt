@@ -74,3 +74,17 @@ C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
 C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
 C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.genruntimeconfig.cache
 C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\gg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\gg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.runtimeconfig.json
+C:\gg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\gg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.genruntimeconfig.cache
+C:\gg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll

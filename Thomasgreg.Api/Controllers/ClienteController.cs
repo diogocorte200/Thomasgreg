@@ -56,13 +56,12 @@ namespace Thomasgreg.Api.Controllers
             if (logradouro == null)
                 return BadRequest();
             logradouro.Id = Guid.NewGuid();
-            var resp = await _logradouroService.Add(logradouro);
+            var resp = await _logradouroService.AdicionarLogradouro(logradouro);
 
-            if (resp == Guid.Empty)
+            if (resp == null)
             {
                 return StatusCode(500, "Erro ao adicionar Candidato!");
             }
-
 
             return Ok(resp);
         }

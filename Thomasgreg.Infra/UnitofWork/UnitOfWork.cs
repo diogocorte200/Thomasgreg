@@ -5,20 +5,6 @@ using Thomasgreg.Infra.Repository;
 
 namespace Thomasgreg.Infra.UnitofWork
 {
-    //public interface UnitofWork : IDisposable
-    //{
-
-    //    IRepository<TEntity> GetRepository<TEntity>() where TEntity : class;
-    //    IRepositoryAsync<TEntity> GetRepositoryAsync<TEntity>() where TEntity : class;
-
-    //    ClientContext Context { get; }
-    //    int Save();
-    //    Task<int> SaveAsync();
-    //}
-
-
-
-
 
     public class UnitOfWork : IUnitofWork
     {
