@@ -1,0 +1,576 @@
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\workspace\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\workspace\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\git\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\git\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\appsettings.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.exe
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.deps.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.runtimeconfig.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Api.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Castle.Core.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Humanizer.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Api\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.AssemblyReference.cache
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfoInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.AssemblyInfo.cs
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CoreCompileInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.Thomasgreg.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Thomasgreg.Api.props
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Thomasgreg.Api.props
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Thomasgreg.Api.props
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\scopedcss\bundle\Thomasgreg.Api.styles.css
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.csproj.CopyComplete
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\refint\Thomasgreg.Api.dll
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\Thomasgreg.Api.genruntimeconfig.cache
+C:\dddd\Thomasgreg\Thomasgreg.Api\obj\Debug\net6.0\ref\Thomasgreg.Api.dll

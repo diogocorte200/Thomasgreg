@@ -1,0 +1,76 @@
+C:\workspace\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\workspace\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\git\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\git\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.runtimeconfig.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.genruntimeconfig.cache
+C:\dddd\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.deps.json
+C:\dddd\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.runtimeconfig.json
+C:\dddd\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\dddd\Thomasgreg\Thomasgreg.Infra\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.AssemblyReference.cache
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfoInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.AssemblyInfo.cs
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.csproj.CoreCompileInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.dll
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\refint\Thomasgreg.Infra.dll
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\Thomasgreg.Infra.genruntimeconfig.cache
+C:\dddd\Thomasgreg\Thomasgreg.Infra\obj\Debug\net6.0\ref\Thomasgreg.Infra.dll

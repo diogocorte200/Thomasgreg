@@ -1,0 +1,90 @@
+C:\workspace\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\workspace\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\workspace\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\workspace\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\workspace\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\workspace\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg (1)\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\projetos\Thomagreg.Interface\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll
+C:\git\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\git\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\git\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\git\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\git\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\git\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\Users\rafae\Downloads\Thomasgreg\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll
+C:\dddd\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.deps.json
+C:\dddd\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.dll
+C:\dddd\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.dll
+C:\dddd\Thomasgreg\Thomasgreg.Domain\bin\Debug\net6.0\Thomasgreg.Infra.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.AssemblyReference.cache
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfoInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.AssemblyInfo.cs
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CoreCompileInputs.cache
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.csproj.CopyComplete
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.dll
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\refint\Thomasgreg.Domain.dll
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\Thomasgreg.Domain.pdb
+C:\dddd\Thomasgreg\Thomasgreg.Domain\obj\Debug\net6.0\ref\Thomasgreg.Domain.dll

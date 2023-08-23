@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8apRxIhFNPFfmGeOct6WXAFtDkrtpNdpUSGWVz4tZT4=",
+  "Source": "Thomasgreg.Api",
+  "BasePath": "_content/Thomasgreg.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
